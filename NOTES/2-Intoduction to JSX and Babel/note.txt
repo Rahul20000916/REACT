@@ -1,0 +1,12 @@
+---- INTRODUCTION TO JSX AND BABEL
+
+JSX:
+Stands for JavaScript XML.
+Syntax extension for writing HTML-like structures within JavaScript code.
+Improves readability for UI components in React.
+
+Babel:
+
+JavaScript compiler.
+Transpiles (transforms) JSX code into regular JavaScript function calls (React.createElement) that browsers understand.
+Enables modern JavaScript features (e.g., arrow functions) in older browsers.
