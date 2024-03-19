@@ -1,0 +1,5 @@
+----REACT----
+- JavaScript UI Library: A tool for crafting interactive user interfaces (UIs) using JavaScript.
+- Partial Page Updates: Allows updating parts of a web page without reloading the entire page, enhancing user experience and reducing server load.
+- Organized Web App Development: Provides a structured approach to building web applications, promoting code organization and maintainability.
+- Reusable Components: Enables the creation of modular components that can be reused across different parts of the application, reducing redundancy and enhancing scalability.
